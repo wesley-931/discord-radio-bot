@@ -1,6 +1,6 @@
 {
   "name": "radio-bot",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A bot that can play radio channels from the internet",
   "main": "index.js",
   "dependencies": {
