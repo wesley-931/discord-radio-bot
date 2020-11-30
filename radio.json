@@ -1,0 +1,9 @@
+{
+    "radiolist": [
+        {
+            "name": "skyradio",
+            "display_name" : "Skyradio Christmas",
+            "url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3?dist=skyradio_web&ttag=talpa_consent:1&gdpr=1&gdpr_consent=CO9sAAzO9sABFADABBNLBCCsAP_AAAAAAAAAGCQGAAKgAXABAADIAIkATQBPADEAG4APwAgABGAClAFcAO8AhABFoCOAI6AS4AnYBWQD9gIpAXmAwQAAACASAQABUAEAARAAngClAHeARwBeY6AUABUAEAARAAngBiAFKAO8AiwBHAF5jgAYAFwBXAEIKQCgAKgAgACIAE8AMQApQB3gEWAI4AvMoABAAuSAAgAXJQBgAiABiAFKAO8AjgC8yEAMAMQA7wCOBgAIArhUAIAjgC8xkAIAjgC8wgAAQAAFAABgAAgAAA.e8AAAAAAAAA"
+        }
+    ]
+}

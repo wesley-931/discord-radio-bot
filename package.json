@@ -1,0 +1,18 @@
+{
+  "name": "radio-bot",
+  "version": "0.0.1",
+  "description": "A bot that can play radio channels from the internet",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "opusscript": "^0.0.7",
+    "ytdl-core": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wesley931",
+  "license": "ISC"
+}
